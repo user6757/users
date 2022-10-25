@@ -11,6 +11,6 @@
     <title>ERP시스템 INDEX</title>
 </head>
 <body>
-    <h1>index.jsp 입니다.ㅎㅎ다시 추가하겠습니다.</h1>
+    <h1>index.jsp 입니다.ㅎㅎ다시 추가하겠습니다. 거기에 하나더 추가함.</h1>
 </body>
 </html>
